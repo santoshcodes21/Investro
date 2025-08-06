@@ -1,0 +1,11 @@
+numpy
+cython
+cmdstanpy
+prophet
+yfinance 
+vaderSentiment
+requests
+tenacity
+scikit-learn
+pandas
+streamlit
